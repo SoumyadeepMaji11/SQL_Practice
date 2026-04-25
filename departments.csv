@@ -1,0 +1,9 @@
+department_id,department_name,location,budget
+1,Engineering,San Francisco,2500000.00
+2,Human Resources,New York,800000.00
+3,Marketing,Los Angeles,1200000.00
+4,Sales,Chicago,1500000.00
+5,Finance,Boston,900000.00
+6,Operations,Seattle,1100000.00
+7,Customer Support,Austin,750000.00
+8,Research & Development,San Jose,2000000.00

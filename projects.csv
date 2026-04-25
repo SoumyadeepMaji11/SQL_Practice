@@ -1,0 +1,16 @@
+project_id,project_name,department_id,start_date,end_date,budget,status
+1,Mobile App Redesign,1,2024-01-15,2024-06-30,500000.00,In Progress
+2,Customer Portal v2,1,2023-09-01,2024-03-15,750000.00,In Progress
+3,Brand Refresh Campaign,3,2024-02-01,2024-05-31,300000.00,In Progress
+4,Sales CRM Migration,4,2023-11-01,2024-02-28,450000.00,Completed
+5,Employee Wellness Program,2,2024-01-01,2024-12-31,150000.00,In Progress
+6,Financial Audit System,5,2023-10-15,2024-04-30,600000.00,In Progress
+7,Supply Chain Optimization,6,2024-01-20,2024-07-15,800000.00,In Progress
+8,AI Research Initiative,8,2023-08-01,2025-08-01,2000000.00,In Progress
+9,Customer Support Chatbot,7,2024-02-15,2024-06-30,250000.00,In Progress
+10,Cloud Infrastructure Upgrade,1,2023-12-01,2024-04-30,900000.00,In Progress
+11,Market Expansion Study,3,2024-03-01,2024-08-31,400000.00,Planning
+12,Quarterly Sales Drive,4,2024-01-01,2024-03-31,200000.00,Completed
+13,Data Analytics Platform,5,2023-07-01,2024-06-30,1100000.00,In Progress
+14,Warehouse Automation,6,2024-02-01,2024-10-31,1500000.00,In Progress
+15,Machine Learning Models,8,2024-01-15,2024-12-31,850000.00,In Progress
