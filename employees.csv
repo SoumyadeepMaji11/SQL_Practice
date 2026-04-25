@@ -1,0 +1,51 @@
+name,designation,salary,hire_date,department_id
+John Smith,Senior Developer,95000.00,2020-03-15,1
+Sarah Johnson,Project Manager,105000.00,2019-07-22,1
+Michael Brown,Junior Developer,55000.00,2023-01-10,1
+Emily Davis,Senior Developer,92000.00,2020-11-05,1
+David Wilson,Tech Lead,115000.00,2018-05-18,1
+Jessica Martinez,QA Engineer,68000.00,2021-09-12,1
+Robert Taylor,Senior Developer,98000.00,2019-12-03,1
+Amanda Anderson,Business Analyst,72000.00,2022-02-28,5
+Christopher Thomas,DevOps Engineer,88000.00,2020-06-14,6
+Jennifer Jackson,Junior Developer,52000.00,2023-04-07,1
+Matthew White,Data Analyst,70000.00,2021-11-20,5
+Ashley Harris,Senior Developer,94000.00,2020-08-25,1
+Daniel Martin,UI/UX Designer,75000.00,2021-05-30,3
+Samantha Thompson,Junior Developer,54000.00,2023-02-15,1
+James Garcia,Database Administrator,82000.00,2020-10-08,1
+Michelle Robinson,Project Manager,108000.00,2019-03-12,3
+William Clark,Tech Lead,118000.00,2018-09-22,8
+Elizabeth Rodriguez,QA Engineer,69000.00,2022-01-18,1
+Joseph Lewis,Senior Developer,96000.00,2020-04-10,1
+Lisa Lee,Full Stack Developer,85000.00,2021-07-05,1
+Ryan Walker,Junior Developer,53000.00,2023-05-20,1
+Rachel Hall,Business Analyst,74000.00,2022-03-14,5
+Kevin Allen,DevOps Engineer,90000.00,2020-12-01,6
+Laura Young,Data Analyst,71000.00,2021-10-16,5
+Brian Hernandez,Senior Developer,97000.00,2019-11-28,8
+Nicole King,UI/UX Designer,76000.00,2021-06-22,3
+Brandon Wright,Junior Developer,56000.00,2023-03-08,1
+Stephanie Lopez,Database Administrator,84000.00,2020-07-19,1
+Jason Hill,Project Manager,110000.00,2019-01-15,4
+Angela Scott,Tech Lead,120000.00,2018-08-30,8
+Timothy Green,QA Engineer,67000.00,2022-04-05,1
+Melissa Adams,Senior Developer,93000.00,2020-05-12,1
+Eric Baker,Full Stack Developer,87000.00,2021-08-25,1
+Kimberly Gonzalez,Junior Developer,51000.00,2023-06-01,1
+Jacob Nelson,Business Analyst,73000.00,2022-02-10,5
+Rebecca Carter,DevOps Engineer,89000.00,2020-11-15,6
+Andrew Mitchell,Data Analyst,72000.00,2021-12-08,5
+Brittany Perez,Senior Developer,99000.00,2019-10-20,8
+Tyler Roberts,UI/UX Designer,77000.00,2021-04-18,3
+Amber Turner,Junior Developer,55000.00,2023-01-25,1
+Jonathan Phillips,Database Administrator,83000.00,2020-09-05,1
+Heather Campbell,Project Manager,107000.00,2019-06-30,2
+Austin Parker,Tech Lead,116000.00,2018-12-12,8
+Crystal Evans,QA Engineer,68500.00,2022-05-22,1
+Justin Edwards,Senior Developer,95500.00,2020-02-28,1
+Monica Collins,Full Stack Developer,86000.00,2021-09-10,1
+Adam Stewart,Junior Developer,52500.00,2023-07-14,1
+Kayla Sanchez,Business Analyst,74500.00,2022-01-05,5
+Sean Morris,DevOps Engineer,91000.00,2020-08-18,6
+Diana Rogers,Data Analyst,70500.00,2021-11-03,5
